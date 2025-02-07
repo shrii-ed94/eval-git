@@ -1,0 +1,18 @@
+*{
+    margin: 0%; padding: 0%;
+}
+
+body{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: Arial;
+}
+header{
+ background-color: rgb(0, 0, 88);
+ width: 100%;
+ color: white;
+ display: flex;
+ justify-content: space-between;
+
+
+}
