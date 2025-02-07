@@ -17,3 +17,11 @@ Touch mobile.css
 Git add mobile.css
 Git commit -m « ajout du fichier mobile.css pour le responsive design »
 Git push -u origin mobile
+Git branch
+Git branch -a
+Git checkout main
+Git merge css
+Git status
+Git add style.css
+Git commit "ajout du fichier style.css + fusion avec la branche"
+Git push origin main
