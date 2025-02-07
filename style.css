@@ -1,3 +1,4 @@
+
 *{
     margin: 0%; padding: 0%;
 }
@@ -8,11 +9,86 @@ body{
     font-family: Arial;
 }
 header{
- background-color: rgb(0, 0, 88);
+ background-color: rgb(255, 0, 0);
  width: 100%;
  color: white;
  display: flex;
  justify-content: space-between;
 
 
+}
+header img{
+    width: 5%;
+}
+h1{
+    background-color: rgb(255, 0, 0);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+nav{
+    background-color: rgb(255, 0, 0);
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+    padding: 2%;
+}
+
+nav a{
+    color: white;
+}
+
+main{
+    width: 70%;
+    margin: 1% auto;
+    padding: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+div{
+    background-color: rgb(255, 0, 0);
+    width: 70%;
+    margin: 1% auto;
+    padding: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+section{
+   
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+   
+}
+article{
+   background-color: rgb(200, 200, 200, .789);
+    width: 33%;
+    margin: 2%;
+    padding: 2%;
+}
+article img{
+    width: 100%;
+}
+
+img{
+    width: 100%;
+}
+p{
+    background-color: rgb(135, 255, 255);
+}
+form{
+    width: 100%;
+    padding: 2%;
+}
+
+
+
+footer{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    width: 100%;
+    display: flex;
+   justify-content: center;
 }
